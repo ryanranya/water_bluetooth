@@ -1,16 +1,15 @@
 # jaykey_flutter
 
-A new Flutter project.
+这是一款一边学习一边完成的App,主要使用了```dart```语言进行了开发。
 
-## Getting Started
+## 功能目录
+### 1、首页
+![image](https://user-images.githubusercontent.com/26618638/188250944-54ba3544-6122-4c81-b7e2-0045a155c18e.png)
+### 2、搜索页面
+### 3、设置页面
+### 4、选择设备页面
+### 5、模式设置页面
+### 6、高级设置页面
+### 7、光谱设置页面
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+开发还在继续，完成一个功能我就会更新一个。。。。。。
